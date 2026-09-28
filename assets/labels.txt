@@ -1,0 +1,6 @@
+Damaged
+Empty
+Negative
+Overripe
+Ripe
+Unripe
